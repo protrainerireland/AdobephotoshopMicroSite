@@ -10,111 +10,35 @@
             "id": "banner", 
             "link": "no", 
             "type": "banner", 
-            "title": "JavaScript Training Courses Ireland", 
-            "subtitle": "Contact Us for all your JavaScript training requirements", 
+            "title": "Adobe Photoshop Training Courses Ireland", 
+            "subtitle": "Contact us for all your Adobe Photoshop training requirements", 
             "background": "img/ground@-min.png",
             "image": "svg/onlineclass.svg"
-        }, 
-        {
-            "id": "services", 
-            "link": "/#services", 
-            "text": "Services", 
-            "title": "Services", 
-            "type": "grid", 
-            "items":[
-                {
-                    "title": "Landing Page Development", 
-                    "text": "lorem ipsum", 
-                    "image": "/svg/Design collaboration.svg", 
-                    "link": "" 
-                }, 
-                {
-                    "title": "Online Branding", 
-                    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.", 
-                    "image": "/svg/branding.svg", 
-                    "link": ""
-                }, 
-                {
-                    "title": "Google Ads", 
-                    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.", 
-                    "image": "/svg/ads.svg", 
-                    "link": ""
-                }, 
-                {
-                    "title": "PPC", 
-                    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-                    "image": "/svg/undraw_Savings_dwkw.svg", 
-                    "link": ""
-                }, 
-                {
-                    "title": "Social Media",
-                    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.", 
-                    "image": "/svg/Social dilemma.svg", 
-                    "link": ""
-                }, 
-                {
-                    "title": "SEO", 
-                    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.", 
-                    "image": "/svg/Code Version Control.svg"
-                }
-            ], 
-            "animation": {
-                "offset": 200
-            }
-            
-        },
+        },       
         {
             "id": "keywordtext",
             "link": "/#keywordtext", 
-            "text": "Info", 
-            "title": "Info", 
+            "text": "About", 
+            "title": "About", 
             "type": "keywordtext",
-            "image": "/svg/Code Version Control.svg", 
+            "image": "/svg/Design collaboration.svg", 
             "imagePosition": "right",
             "content":{
-                "title": "hello"
+                "title": "Capable of just about anything...",
+                "text": "Adobe Photoshop is software that is extensively used for raster image editing, graphic design and digital art. It makes use of layering to allow for depth and flexibility in the design and editing process, as well as provide powerful editing tools, that when combined, are capable of just about anything."
             }
         },
         {
-            "id": "about",
-            "link": "/#about", 
-            "text": "About", 
-            "title": "About", 
-            "type": "listwithimage", 
+            "id": "summary",
+            "link": "/#summary", 
+            "text": "Why Attend?", 
+            "title": "Why Attend?", 
+            "type": "summary",
+            "image": "", 
+            "imagePosition": "right",
             "content":{
-                "title": "Odio sed id eos et laboriosam consequatur eos earum soluta.", 
-                "list":[
-                    "Sint aliquam consequatur ex ex labore.", 
-                    "Duis aute irure dolor in reprehenderit in voluptate velit.", 
-                    "Aspernatur consectetur omnis numquam quaerat.", 
-                    "Et vel ut quidem alias veritatis repudiandae ut fugit.", 
-                    "Fugit ut maxime incidunt accusantium totam repellendus eum error.", 
-                    "Ullamco laboris nisi ut aliquip ex ea commodo consequat."
-                ], 
-                "image": "svg/undraw_mobile_marketing.svg"
-            }
-        }, 
-        {
-            "id": "testimonials", 
-            "link": "/#testimonials", 
-            "text": "Testimonials", 
-            "type": "quotes", 
-            "content": {
-                "title": "Testimonials", 
-                "quotes":[
-                    {
-                        "name": "Carol", 
-                        "jobtitle": "CEO at DIN", 
-                        "image": "/img/testimonials/carol.png", 
-                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna"
-                    }, 
-                    {
-                        "name": "Fred", 
-                        "jobtitle": "Co-founder at ArtSpace", 
-                        "image": "/img/testimonials/fred.JPEG", 
-                        "text": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-                    }
-                ]
+                "title": "Why attend one of our Adobe Photoshop courses InDesign courses",
+                "text": "Taking a course on Adobe Photoshop is essential if you work in a graphic design, web design, or user experience roles. It is also equally important to learn Photoshop for those working in hands-on marketing roles. Whether creating flyers, brochures, or email newsletters, there is a need to know Photoshop for optimizing and retouching images. You can learn Photoshop even if you are a beginner with no previous experience on <a href=/courses>our expert instructor-led courses.</a>"
             }
         }
     ] 
