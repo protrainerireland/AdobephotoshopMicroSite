@@ -1,11 +1,11 @@
 {
-    "searchKeywords": ["javascript"],
+    "searchKeywords": ["Adobe Photoshop"],
     "searchLocations": ["Dublin", "Cork", "Limerick", "Ireland"],
     "homepageTitle": "Training Courses - Dublin Cork Limerick Ireland", 
     "organisation": {
-        "name": "AngularTraining.ie" 
+        "name": "AdobePhotoshopTraining.ie" 
     },
-    "url": "angulartraining.ie",
+    "url": "adobephotoshoptraining.ie",
     "logo": "/img/adobephotoshoplogo.png",
     "address": {
         "line1": "Building 6500E", 
